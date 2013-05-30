@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+	<resource-ref>
+		<res-ref-name>mail/corejsf</res-ref-name>
+		<res-type>javax.mail.Session</res-type>
+		<jndi-name>java:jboss/mail/corejsf</jndi-name>
+	</resource-ref>
+</jboss-web>
